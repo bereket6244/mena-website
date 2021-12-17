@@ -1,0 +1,17 @@
+.introduction {
+    display: flex;
+    flex-direction: column;
+    
+}
+.bg-pink {
+    background-color: pink;
+}
+.main {
+    height: 25em;
+    width: 100vw;
+    background-color: red;
+}
+.icons {
+    flex-direction: column;
+    align-items: flex-end;
+}
